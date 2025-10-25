@@ -98,7 +98,6 @@ Esta tabela destaca a robustez do código ao lidar com diferentes tipos de entra
 Abaixo, um exemplo da interação do usuário, 
 demonstrando a robustez dos validadores e o cálculo final correto.
 
-Com certeza! Você está se referindo à tabela que apresenta o **exemplo de execução** do seu programa, mostrando as entradas e os resultados.
 
 | Entrada (Usuário) | Resultado (Sistema) |
 | :--- | :--- |
