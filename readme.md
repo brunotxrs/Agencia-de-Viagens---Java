@@ -1,7 +1,13 @@
 # Agência de Viagens: Sistema de Cadastro e Vendas
 
 ## 🎯 Contexto do Desafio
-Este projeto foi desenvolvido em Java, aplicando conceitos de Orientação a Objetos (OO), para simular um módulo de cadastro e venda de pacotes de viagens. O sistema é responsável por registrar os componentes de um pacote (Transporte e Hospedagem), calcular os custos totais em Dólar (incluindo margem de lucro e taxas), realizar a conversão para Reais e exibir o resultado final da venda ao usuário.
+Este projeto foi desenvolvido em Java, aplicando conceitos de 
+Orientação a Objetos (POO), para simular um módulo de cadastro e 
+venda de pacotes de viagens. O sistema é responsável por registrar 
+os componentes de um pacote (Transporte e Hospedagem), calcular 
+os custos totais em Dólar (incluindo margem de lucro e taxas), 
+realizar a conversão para Reais e exibir o resultado final da 
+venda ao usuário.
 
 ### Requisitos Atendidos:
 **O programa atende a todos os requisitos do desafio:**
